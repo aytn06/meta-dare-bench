@@ -1,3 +1,11 @@
+# Meta DARE-Bench
+
+**Maintainer of this copy:** [Achintya Raya Polavarapu](https://github.com/aytn06).
+
+This is a personal copy of [DARE-Bench](https://github.com/Snowflake-Labs/DARE-Bench), not an official Meta release. The original authors, affiliations, and licenses are retained below.
+
+---
+
 <img src="figs/logo_title.png" height="55">
 
 
