@@ -22,7 +22,13 @@ This is a personal copy of [DARE-Bench](https://github.com/Snowflake-Labs/DARE-B
 
 ---
 
-## Authors
+<a id="authors"></a>
+
+
+
+## Original Project Credits
+
+The names and affiliations below credit the original DARE-Bench paper and release only. They do not credit these authors with changes made to this personal copy or imply that they endorse those changes.
 
 **Fan Shu**<sup>1,\*</sup> · **Yite Wang**<sup>2,\*†</sup> · **Ruofan Wu**<sup>1</sup> · **Boyi Liu**<sup>2</sup> · **Zhewei Yao**<sup>2</sup> · **Yuxiong He**<sup>2</sup> · **Feng Yan**<sup>1</sup>
 
